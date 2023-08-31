@@ -25,6 +25,13 @@ Searchable creeds, confessions, and catechisms of the church.
 <br>
 [The Heidelberg Catechism](https://normanormata.github.io/pages/heidelberg/)
 
+# The OPC Book of Church Order 
+[The Form of Government](https://normanormata.github.io/pages/fg/)
+<br>
+[The Book of Discipline](https://normanormata.github.io/pages/bd/)
+<br>
+[The Directory for the Public Worship of God](https://normanormata.github.io/pages/dpw/)
+
 [1]: https://pages.github.com
 [2]: https://pages.github.com/themes
 [3]: https://github.com/sighingnow/jekyll-gitbook/fork
