@@ -53,6 +53,7 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
+
     order:
       - apostles-creed.md
       - athanasian-creed.md
@@ -67,7 +68,7 @@ collections:
       - bd.md
       - dpw.md
 
-page_width: 800px
+page_width: 900px
 
 destination:      ./_site
 incremental:      false
