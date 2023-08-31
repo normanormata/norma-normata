@@ -1,12 +1,11 @@
 ---
-title: The OPC Form of Government
+title: The Form of Government
 author: Tyler Teschon
 date: 2023-08-30
 category: Jekyll
 layout: post
 ---
-## Chapter I
-Christ, the King and Head of the Church
+## Chapter I: Christ, the King and Head of the Church
 1. Jesus Christ, upon whose shoulders the government is, whose name is called Wonderful Counselor, the Mighty God, the Everlasting Father, the Prince of Peace, of the increase of whose government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and justice, from henceforth even forever, having all power given unto him in heaven and in earth by the Father, who raised him from the dead, and set him at his own right hand, far above all principality and power, and might and dominion, and every name that is named, not only in this world but also in that which is to come, and put all things under his feet, and gave him to be the head over all things to the church, which is his body, the fullness of him that fills all in all; he being ascended up far above all heavens, that he might fill all things, received gifts for his church and gave offices necessary for the building of his church, for making disciples of all nations and perfecting his saints.
 
 2. There is therefore but one King and Head of the church, the only Mediator between God and man, Jesus Christ, who rules in his church by his Word and Spirit. His mediatorial office includes all the offices in his church. It belongs to his majesty from his throne of glory not only to rule his church directly but also to use the ministry of men in ruling and teaching his church through his Word and Spirit, thus exercising through men his own authority and enforcing his own laws. The authority of all such ministerial office rests upon his appointment, who has ordained government in his church, revealed its nature to us in his Word, and promised his presence in the midst of his church as this government is exercised in his name.
@@ -15,8 +14,7 @@ Christ, the King and Head of the Church
 
 4. Jesus Christ, having ascended into heaven, abides in his church by the Holy Spirit whom he has sent. Through his Spirit he has given his Word revealing his ordinances; through the Spirit also he exerts his saving and governing power in the teaching of his Word and the administration of his ordinances. Only by the gifts and calling of the Spirit are men endued and qualified for office in Christ's church.
 
-## Chapter II
-The Church
+## Chapter II: The Church
 1. Jesus Christ, being now exalted far above all principality and power, has erected in this world a kingdom, which is his church.
 
 2. The universal church visible consists of all those persons, in every nation, together with their children, who make profession of saving faith in the Lord Jesus Christ and promise submission to his commandments.
@@ -25,8 +23,7 @@ The Church
 
 4. The work of the church, in fellowship with and obedience to Christ, is divine worship, mutual edification, and gospel witness. The means appointed by Christ through which the church does this work include the confession of the name of Christ before men; the exercise of fellowship in encouraging one another; the reading, teaching, and preaching of the Word of God; praying; singing; fasting; administering baptism and the Lord's Supper; collecting and distributing offerings; showing mercy; exercising discipline; and blessing the people.
 
-## Chapter III
-The Nature and Exercise of Church Power
+## Chapter III: The Nature and Exercise of Church Power
 1. The power which Christ has committed to his church is not vested in the special officers alone, but in the whole body. All believers are endued with the Spirit and called of Christ to join in the worship, edification, and witness of the church which grows as the body of Christ fitly framed and knit together through that which every joint supplies, according to the working in due measure of each part. The power of believers in their general office includes the right to acknowledge and desire the exercise of the gifts and calling of the special offices. The regular exercise of oversight in a particular congregation is discharged by those who have been called to such work by vote of the people.
 
 2. Those who join in exercising ecclesiastical jurisdiction are the ministers of the Word or teaching elders, and other church governors, commonly called ruling elders. They alone must exercise this authority by delegation from Christ, since according to the New Testament these are the only permanent officers of the church with gifts for such rule. Ruling elders and teaching elders join in congregational, presbyterial, and synodical assemblies, for those who share gifts for rule from Christ must exercise these gifts jointly not only in the fellowship of the saints in one place but also for the edification of all the saints in larger areas so far as they are appointed thereto in an orderly manner, and are acknowledged by the saints as those set over them in the Lord.
@@ -39,8 +36,7 @@ Government by presbyters or elders is a New Testament ordinance; their joint exe
 
 5. Nevertheless, church government is a valid and authentic jurisdiction to which Christians are commanded to submit themselves. Therefore the decisions of church officers when properly rendered and if in accord with the Word of God "are to be received with reverence and submission; not only for their agreement with the Word, but also for the power whereby they are made, as being an ordinance of God appointed thereunto in his Word" (Confession of Faith, Chapter XXXI, Section 2).
 
-## Chapter IV
-The Unity of the Church
+## Chapter IV: The Unity of the Church
 1. Since the church of Christ is one body, united under and in one God and Father, one Lord, and one Spirit, it must give diligence to keep this unity in the bond of peace. To this end the church must receive those endued with gifts of Christ as Christ himself, must submit to those whose call to govern in the church has been properly acknowledged, and in particular must learn of those with gifts of teaching the Word of God. Further, since every Christian is endued with some gift for the edification of the body, he must minister this gift to the church as a faithful steward. Church government must maintain this fellowship in Christ and in the gifts of the Spirit and seek its restoration when it has been disrupted through schism.
 
 2. It is the right and duty of those who rule in the church of God to maintain order and exercise discipline, for the preservation both of truth and duty. These officers and the whole church must censure or cast out the erroneous or scandalous, always observing the requirements of the Word of God, and seeking the honor of Christ's name, the good of his church, and the reclamation of the offender.
@@ -49,16 +45,14 @@ The Unity of the Church
 
 4. The visible unity of the Body of Christ, though not altogether destroyed, is greatly obscured by the division of the Christian church into different groups or denominations. In such denominations Christians exercise a fellowship toward each other in doctrine, worship, and order that they do not exercise toward other Christians. The purest churches under heaven are subject both to mixture and error, and some have gravely departed from apostolic purity; yet all of these which maintain through a sufficient discipline the Word and sacraments in their fundamental integrity are to be recognized as true manifestations of the church of Jesus Christ. All such churches should seek a closer fellowship, in accordance with the principles set forth above.
 
-## Chapter V
-Offices in the Church
+## Chapter V: Offices in the Church
 1. Our Lord Jesus Christ established his church of the new covenant on the foundation of the apostles and prophets. The apostles were appointed to be witnesses to the risen Christ, testifying in the Holy Spirit to what they had seen and heard, heralding the gospel to the world, and grounding the church in the teaching of Christ. Together with the prophets they spoke by revelation, recording in the Scriptures of the New Testament the fullness of the truth as it is in Christ Jesus. When their testimony was completed their calling and office was not continued in the church, and the powers and signs that endued and sealed their ministry ceased.
 
 2. Our Lord continues to build his church through the ministry of men whom he calls and endues with special gifts for teaching, ruling, and serving. Some of these special gifts can be most profitably exercised only when those who possess them have been publicly recognized as called of Christ to minister with authority. It is proper to speak of such a publicly recognized function as an office, and to designate men by such scriptural titles of office and calling as evangelist, pastor, teacher, bishop, elder, or deacon. There are diversities of ministry within any office, for every man is called to be a steward of his own gifts. At the same time, a general designation of office may be applied to a group of functions within which separate offices could be distinguished.
 
 3. The ordinary and perpetual offices in the church are those given for the ministry of the Word of God, of rule, and of mercy. Those who share in the rule of the church may be called elders (presbyters), bishops, or church governors. Those who minister in mercy and service are called deacons. Those elders who have been endued and called of Christ to labor also in the Word and teaching are called ministers.
 
-## Chapter VI
-Ministers or Teaching Elders
+## Chapter VI: Ministers or Teaching Elders
 1. The ministry of the Word is a calling of God to stewardship in the gospel. In this ministry there is a diversity of gifts that are essential to the discharge of evangelistic, pastoral, and teaching functions.
 
 2. Every minister of the Word, or teaching elder, must manifest his gifts and calling in these various aspects of the ministry of the gospel and seek by full exercise of his ministry the spiritual profit of those with whom he labors. As a minister or servant of Christ it is his duty to feed the flock of God, to be an example to them, to have oversight of them, to bear the glad tidings of salvation to the ignorant and perishing and beseech them to be reconciled to God through Christ, to exhort and convince the gainsayer by sound doctrine, and to dispense the sacraments instituted by Christ. Among those who minister the Word the Scripture distinguishes the evangelist, the pastor, and the teacher.
@@ -67,32 +61,27 @@ Ministers or Teaching Elders
 
 4. Every minister shall be a member of a regional church and has communicant fellowship in any local congregation of that regional church. The presbytery, with the concurrence of a ministerial member, may request a session within its bounds to exercise pastoral care over him in its behalf. A session, with the concurrence of the presbytery, may grant the right to vote in the congregation to any ministerial member of the regional church.
 
-## Chapter VII
-Evangelists
+## Chapter VII: Evangelists
 1. Jesus Christ, to whom is given all power in heaven and in earth, has commanded his church to make disciples of all the nations. From the throne of his glory he sent forth the Holy Spirit, the promise of the Father, to empower the witness of the church to the gospel. While it is the calling of every believer to confess Christ before men, and while God gives particular gifts and calling to some to minister the Word, and while every minister of the Word must evangelize in the fulfillment of his calling, there are some who are particularly called by Christ and his church as evangelists. Ordinarily such men shall preach the Word free of pastoral charge in a particular flock in order that they may labor to bring in other sheep. And to those sheep whom Christ has brought in, evangelists shall administer the sacraments until a congregation shall have been regularly organized. Since the gifts and functions of evangelists are necessary until the end of the age, this ministry is permanent and not confined to the apostolic period.
 
 2. The evangelist, in common with other ministers, is ordained to perform all the functions that belong to the sacred office of the minister. Yet distinctive to the function of the evangelist in his ministry of the gospel are the labors of (a) a missionary in a home or foreign mission field; (b) a stated supply or special preacher in churches to which he does not sustain a pastoral relation; (c) a chaplain in institutions or in military forces; (d) an administrator of an agency for preaching the gospel; and (e) an editor or similar ministry through the press and other means of communication.
 
-## Chapter VIII
-Pastors
+## Chapter VIII: Pastors
 Christ's undershepherd in a local congregation of God's people, who joins with the ruling elders in governing the congregation, is called a pastor. It is his charge to feed and tend the flock as Christ's minister and with the other elders to lead them in all the service of Christ. It is his task to conduct the public worship of God; to pray for and with Christ's flock as the mouth of the people unto God; to feed the flock by the public reading and preaching of the Word of God, according to which he is to teach, convince, reprove, exhort, comfort, and evangelize, expounding and applying the truth of Scripture with ministerial authority, as a diligent workman approved by God; to administer the sacraments; to bless the people from God; to shepherd the flock and minister the Word according to the particular needs of groups, families, and individuals in the congregation, catechizing by teaching plainly the first principles of the oracles of God to the baptized youth and to adults who are yet babes in Christ, visiting in the homes of the people, instructing and counseling individuals, and training them to be faithful servants of Christ; to minister to the poor, the sick, the afflicted, and the dying; and to make known the gospel to the lost.
 
-## Chapter IX
-Teachers
+## Chapter IX: Teachers
 1. A teacher is a minister of the Word who has received particular gifts from Christ for expounding the Scripture, teaching sound doctrine, and convincing gainsayers, and is called to this ministry.
 
 2. A minister may serve a local congregation as a teacher if there is at least one other minister serving as pastor. The teacher may also give instruction in a theological seminary; or teach the Word in a school, college, or university; or discharge this ministry in some other specific way, such as writing or editing in the field of Christian religious education. He shall take a pastoral oversight of those committed to his charge as teacher, and be diligent in sowing the seed of the Word and gathering the harvest, as one who watches for souls.
 
-## Chapter X
-Ruling Elders
+## Chapter X: Ruling Elders
 1. Christ who has instituted government in his church has furnished some men, beside the ministers of the Word, with gifts for government, and with commission to execute the same when called thereto. Such officers, chosen by the people from among their number, are to join with the ministers in the government of the church, and are properly called ruling elders.
 
 2. Those who fill this office should be sound in the faith and of exemplary Christian life, men of wisdom and discretion, worthy of the esteem of the congregation as spiritual fathers.
 
 3. Ruling elders, individually and jointly with the pastor in the session, are to lead the church in the service of Christ. They are to watch diligently over the people committed to their charge to prevent corruption of doctrine or morals. Evils which they cannot correct by private admonition they should bring to the notice of the session. They should visit the people, especially the sick, instruct the ignorant, comfort the mourning, and nourish and guard the children of the covenant. They should pray with and for the people. They should have particular concern for the doctrine and conduct of the minister of the Word and help him in his labors.
 
-## Chapter XI
-Deacons
+## Chapter XI: Deacons
 1. The Scriptures designate the office of deacon as distinct and perpetual in the church. Deacons are called to show forth the compassion of Christ in a manifold ministry of mercy toward the saints and strangers on behalf of the church. To this end they exercise, in the fellowship of the church, a recognized stewardship of care and of gifts for those in need or distress. This service is distinct from that of rule in the church.
 
 2. Those chosen to this office should be of great faith, exemplary lives, honest repute, brotherly love, warm sympathies, and sound judgment.
@@ -107,8 +96,7 @@ Deacons
 
 7. In a church in which there are no deacons, the duties of the office shall devolve upon the session.
 
-## Chapter XII
-Governing Assemblies
+## Chapter XII: Governing Assemblies
 1. All governing assemblies have the same kinds of rights and powers. These are to be used to maintain truth and righteousness and to oppose erroneous opinions and sinful practices that threaten the purity, peace, or progress of the church. All assemblies have the right to resolve questions of doctrine and discipline reasonably proposed and the power to obtain evidence and inflict censures. A person charged with an offense may be required to appear only before the assembly having jurisdiction over him, but any member of the church may be called by any assembly to give testimony.
 
 2. Each governing assembly exercises exclusive original jurisdiction over all matters belonging to it. The session exercises jurisdiction over the local church; the presbytery over what is common to the ministers, sessions, and the church within a prescribed region; and the general assembly over such matters as concern the whole church. Disputed matters of doctrine and discipline may be referred to a higher governing assembly. The lower assemblies are subject to the review and control of higher assemblies, in regular graduation. These assemblies are not separate and independent, but they have a mutual relation and every act of jurisdiction is the act of the whole church performed by it through the appropriate body.
@@ -117,8 +105,7 @@ Governing Assemblies
 
 4. Voting by proxy shall not be permitted in these assemblies, nor shall any one be allowed to vote except when the vote is being taken.
 
-## Chapter XIII
-The Local Church and Its Session
+## Chapter XIII: The Local Church and Its Session
 1. The local church consists of a definite membership organized as a distinct congregation with its officers. Two or more local congregations may be associated together under the government of a single session. The membership of a local congregation consists of communicant and noncommunicant members, all of whom have the privilege of pastoral oversight, instruction, and government by the church.
 
 2. Communicant members are those who have been baptized, have made a credible profession of faith in Christ, and have been enrolled and admitted to all the rights of church membership by the session. Noncommunicant members are the baptized children of communicant members.
@@ -147,8 +134,7 @@ Whenever a member desires dismissal to a church of which the session cannot appr
 
 10. If a session shall cease to exist or become so small as to prevent it from working effectively, the presbytery shall provide for an election and ordination of elders from within the congregation; or the presbytery, with the consent of the congregation, may appoint ruling elders or ministers, or both, normally from within the same presbytery, to be an acting session or to augment the existing session temporarily.
 
-## Chapter XIV
-The Regional Church and Its Presbytery
+## Chapter XIV: The Regional Church and Its Presbytery
 1. A regional church consists of all the members of the local congregations and the ministers within a certain district. The general assembly may organize a regional church when there are at least four congregations, two ministers, and two ruling elders, within a region.
 
 2. The presbytery is the governing body of a regional church. It consists of all the ministers and all the ruling elders of the congregations of the regional church.
@@ -171,8 +157,7 @@ Further, the presbytery has power to receive and issue all appeals, and other ma
 
 9. Uncommissioned elders of the regional church, and presbyters in good standing in other presbyteries or in churches of like faith and practice, who may be present, may be invited to sit with the presbytery as corresponding members. Such members shall be entitled to deliberate and advise, but not to vote in any decisions of the presbytery.
 
-## Chapter XV
-The Whole Church and Its General Assembly
+## Chapter XV: The Whole Church and Its General Assembly
 1. The whole church consists of all the members of its regional churches.
 
 2. The general assembly, which is the governing body of the whole church, shall consist of not more than one hundred and fifty-five voting commissioners, including the moderator and stated clerk of the previous assembly, the stated clerk of the current assembly, and such ministers and ruling elders as are commissioned by the respective presbyteries in accordance with proportions determined by a previous general assembly. In the event that the general assembly fails to establish such proportions, the next general assembly shall consist of every minister and of one ruling elder from every local church.
@@ -189,8 +174,7 @@ The Whole Church and Its General Assembly
 
 8. The general assembly is not invested with power, by virtue of its own authority, to make pronouncements which bind the conscience of the members of the church. Yet the deliverances of the general assembly, if declarative of the Word of God, are to be received with deference and submission not only because of their fidelity to the Word of God but also because of the nature of the general assembly as the supreme judicatory of the church. Deliverances, resolutions, overtures, and other actions which have the effect of amending or adding to the subordinate standards shall not be binding unless they have been approved by the general assembly and presbyteries in the manner provided in this Form of Government for the amendment of the constitution.
 
-## Chapter XVI
-Congregational Meetings
+## Chapter XVI: Congregational Meetings
 1. Meetings of the congregation shall be called by the session. A stated meeting shall be held at least once annually to consider the affairs of the congregation. Other meetings shall be called when the session deems it to be for the best interests of the congregation or when requested in writing to do so by one-fourth of the communicant members of the congregation in good and regular standing. Only those and all those persons who are communicant members of the congregation in good and regular standing shall be entitled to vote. Voting by proxy shall not be permitted, nor shall anyone be allowed to vote except when the vote is being taken.
 
 2. The provisions of Section 1 of this chapter shall apply to a mission work which may hold a congregational meeting in its area when duly called by its session or presbytery. Such a congregational meeting may be held when at least one member of the session is present and when a quorum of communicant members of the mission work as designated by the session is present.
@@ -211,28 +195,24 @@ b. If the vote of the congregation favors withdrawal, the session shall call for
 
 c. The presbytery shall be given the opportunity, at any congregational meeting at which withdrawal is being considered, to dissuade the congregation from withdrawing.
 
-## Chapter XVII
-Congregations without Pastors
+## Chapter XVII: Congregations without Pastors
 1. A congregation without a pastor shall continue to meet on the Lord's Day for the purpose of prayer, the singing of praises, and the hearing of the Word of God. When a minister or licentiate is not available the session shall be responsible for the conducting of services. A sermon or exhortation in accord with the standards of the Church shall be presented by reading, recording, or oral delivery to the congregation.
 
 2. The presbytery may supervise a church that is without a pastor through a ministerial advisor (cf. Chapter XIII, Section 6) or a committee. Such supervision includes cooperation with the session, or with any authorized committee of the particular church, in the supply of the pulpit and in the seeking and securing of a pastor.
 
 3. Under ordinary circumstances only ministers and licentiates of the Orthodox Presbyterian Church shall be employed as regular supplies in congregations without pastors. However, other ministers or licentiates may be employed as regular supplies upon approval of the presbytery.
 
-## Chapter XVIII
-Moderators
+## Chapter XVIII: Moderators
 1. In the judicatories of the church there shall be a moderator chosen from among its members as presiding officer so that business may be conducted with order and dispatch.
 
 2. The moderator is to be considered as possessing, by delegation from the whole body, all authority necessary for the preservation of order, for convening and adjourning the judicatory, and directing its operations according to the rules of the Church. The moderator of the presbytery as provided in Chapter XIV, Section 7, and the moderator of the previous general assembly as provided in Chapter XV, Section 5, of this Form of Government, shall be empowered to convene the judicatory before the ordinary time of meeting.
 
 3. If the moderator is a member of the body over which he presides, he may vote in all decisions of that body.
 
-## Chapter XIX
-Clerks
+## Chapter XIX: Clerks
 Every judicatory shall choose a clerk from among those who are or those eligible to be its members to serve for such a term as the judicatory may determine. It shall be the duty of the clerk to be accountable for the recording of the transactions, to preserve the records carefully, and to grant extracts from them whenever properly required; and such extracts under the hand of the clerk shall be considered as authentic vouchers of the facts which they declare, in any ecclesiastical judicatory and to every part of the Church.
 
-## Chapter XX
-Ordination and Installation
+## Chapter XX: Ordination and Installation
 1. It being manifest by the Word of God that no man ought to take upon himself the office of deacon, ruling elder, or minister, the Scriptures declare that the church shall set men apart by solemn act for its service.
 
 2. Ordination is that act by which men are set apart to the offices of deacon, ruling elder, and minister. It is the church's solemn approval of and public attestation to a man's inward call, his gifts, and his calling by the church.
@@ -249,8 +229,7 @@ Ordination and Installation
 
 8. When an officer, by reason of advanced age or disability, retires or is retired from a position and is no longer engaged in a service that requires a call in terms of Chapters XXIII or XXV of this Form of Government, the body calling him to that service in which he was last engaged before his retirement may, in recognition of his long and/or meritorious service, designate him "emeritus" with the title of his previous service.
 
-## Chapter XXI
-Licensing Candidates to Preach the Gospel
+## Chapter XXI: Licensing Candidates to Preach the Gospel
 1. The Holy Scriptures require that some trial be previously made of those who are to be ordained to the ministry of the gospel, in order that this sacred office may not be degraded by being committed to weak or unworthy men and that the churches may have an opportunity to form a better judgment respecting the gifts of those by whom they are to be instructed and governed. For this purpose candidates for ordination shall first be licensed by presbyteries to preach the gospel as probationers. After a period of probation sufficient to make trial of their qualifications and service, and having received reports that their services are edifying to the church, the presbyteries may in due time proceed to ordain such probationers, or licentiates, to the sacred office.
 
 2. Prior to licensure candidates shall be taken under care of a presbytery. A candidate must be a communicant member of a local congregation of the Orthodox Presbyterian Church; ordinarily it should be of the same presbytery in which he is applying to be taken under care. The presbytery shall receive a written recommendation from the session of the local congregation of which the candidate is a member, certifying that in its judgment his Christian faith and potential gifts qualify him to be taken under the care of the presbytery with a view to ordination to the gospel ministry. It is of particular importance, at this time, that the presbytery inquire as to the grace of God in him and whether he be of such holiness of life as is requisite in a minister of the gospel. It is therefore the duty of a presbytery, in taking a candidate under its care, to examine him respecting his Christian faith, life, service, and the motives influencing him to desire the sacred office. The presbytery must show its continuing concern for the progress of all the candidates under its care, and shall continually guide, counsel, and help them as they further prepare themselves for the work of the ministry.
@@ -287,8 +266,7 @@ At _________________ on the ______ day of __________ the Presbytery of _________
 
 11. When, over a considerable period of time, either a licentiate's services do not appear to be edifying to the church, or he is not actively seeking a call to ministerial service except for reasons of furthering his preparation for the ministry, the presbytery may, if it think proper, recall his license. The period of time ordinarily should not exceed two years.
 
-## Chapter XXII
-Calling a Minister
+## Chapter XXII: Calling a Minister
 1. A minister or licentiate may be called to ministerial service by a congregation; he may also be called by a presbytery or the general assembly, either directly or through their agencies, for work not related to any one particular congregation. Only ministers and licentiates may be called.
 
 2. All calls shall be presented to the person called only by consent of presbytery. No minister shall be transferred to other service without his consent.
@@ -377,8 +355,7 @@ d. Under no circumstances shall such a person be permitted to undertake any of t
 
 16. Within the terms of this chapter the phrase "find the call in order" shall mean to determine that the call has been properly drawn and issued, and that its terms conform to the constitution of the Church; and the phrase "approve its terms" or "approve the call" shall mean to sanction the terms specified in the call.
 
-## Chapter XXIII
-Ordaining and Installing Ministers
+## Chapter XXIII: Ordaining and Installing Ministers
 1. When a call is issued to a minister or licentiate it shall be regarded as a request by the calling body for his installation. When the person called has declared his willingness to accept the call this shall be regarded as his request to be installed; in the case of a licentiate it shall be regarded as a request first to be ordained.
 
 2. A licentiate may be ordained as a minister of the Word when he has given sufficient evidence that he has the ministerial gifts required for instruction and rule in Christ's church in accordance with the provisions of Chapter XXI, Section 1, and has been called to a ministerial service approved by the presbytery. A minister may be received from another denomination when he has given sufficient evidence that he has the ministerial gifts required for instruction and rule in Christ's church in accordance with the provisions of Section 6 of this chapter.
@@ -647,8 +624,7 @@ If the newly enrolled minister has come from another presbytery of this Church t
 
 22. If a retired minister of another denomination desires to transfer his ministerial credentials to the Orthodox Presbyterian Church, he may be enrolled as a member of the presbytery without a call and without installation, provided his reasons are satisfactory and he is received in accordance with the relevant provisions of Section 18 of this chapter.
 
-## Chapter XXIV
-Dissolving Ministerial Relationships
+## Chapter XXIV: Dissolving Ministerial Relationships
 1. When a minister desires leave to resign a ministerial charge in order to accept a call to similar service in another charge within the Church the provisions of Chapter XXII, Section 12, shall be observed.
 
 2. If any congregation desires to be relieved of its pastor it may, through a duly called meeting of the congregation, ask him to resign. If the pastor agrees to do so, the presbytery shall be requested to dissolve the pastoral relationship as of a mutually agreeable date. If the pastor is not willing to resign the congregation may petition the presbytery to dissolve the pastoral relationship and may send representatives to the meeting to support the request. The presbytery may grant the request, but only after giving the pastor opportunity to present his reasons for not concurring, or it may urge the congregation to reconsider its action.
@@ -679,8 +655,7 @@ If the presbytery approves his doing the contemplated work, and if the body that
 
 5. When a minister desires to resign a charge without other ministerial work in view the procedures of Section 4 shall be followed. If the presbytery grants the request it shall advise with him concerning his resuming ministerial labor, taking into consideration Chapter XXVI of this Form of Government.
 
-## Chapter XXV
-Electing, Ordaining, and Installing
+## Chapter XXV: Electing, Ordaining, and Installing
 Ruling Elders and Deacons
 1. Every congregation shall elect ruling elders and deacons, except in extraordinary circumstances. Those elected must be male communicant members in good and regular standing in the church in which they are to exercise their office.
 
@@ -776,8 +751,7 @@ I now declare that ______________ has been regularly elected and installed a rul
 
 e. After this the minister shall give to him and to the congregation an exhortation suited to the occasion.
 
-## Chapter XXVI
-Divesting from Office
+## Chapter XXVI: Divesting from Office
 1. An officer may be divested of his office, or deposed, by judicial discipline for an offense in doctrine or life. Such divestiture, or deposition, shall be in accordance with the provisions of the Book of Discipline.
 
 2. An officer may also be divested of his office without censure, for reasons other than delinquency in faith or life.
@@ -818,16 +792,14 @@ b. A ruling elder or deacon who desires to resign from or refuses to serve in th
 
 7. Nothing in this chapter shall be held to imply that when a ruling elder or deacon retires, or is retired, because of advanced age or disability, from his official position, he shall be divested of his office or prevented from performing, on occasion, the functions of that office.
 
-## Chapter XXVII
-Missions
+## Chapter XXVII: Missions
 1. Sessions, presbyteries, and the general assembly have their respective responsibilities for the work of missions. Each congregation and presbytery, as well as the general assembly, is obliged to pursue the task of evangelism within its respective bounds. Foreign missions is conducted by the general assembly on behalf of the whole church, or by individual presbyteries and congregations acting in coordination with one another and with the general assembly.
 
 2. The general assembly or its agencies normally may initiate mission work within the bounds of a presbytery only with the consent of that presbytery; but in extraordinary circumstances the general assembly on its own initiative may appoint missionaries to labor within the bounds of a presbytery for a period not to exceed six months.
 
 3. A person appointed to labor within the bounds of a presbytery shall place himself under the jurisdiction of that presbytery as soon as practicable. If his work is not limited to one presbytery he shall be under the jurisdiction of that presbytery most convenient to him.
 
-## Chapter XXVIII
-Ministers Laboring outside the Church
+## Chapter XXVIII: Ministers Laboring outside the Church
 1. A minister of the Orthodox Presbyterian Church may under certain circumstances and conditions labor in churches other than those of the Orthodox Presbyterian Church. A candidate for ordination who seeks or intends to labor in such a church may under certain circumstances and conditions be ordained by a presbytery of the Orthodox Presbyterian Church. Such labor may be distinctly missionary in its nature and purpose in that it may provide the minister with the opportunity of ministering the gospel to unbelievers and of promoting the cause which the Orthodox Presbyterian Church represents. Such labor may, in certain cases, be that of a pastor or of a teacher, presenting the Orthodox Presbyterian Church with the opportunity of providing other churches with a ministry which otherwise they might not enjoy.
 
 2. Although it is impossible to delineate all the practical circumstances and conditions under which it may be proper for a minister of the Orthodox Presbyterian Church to engage in such labor, the following general principles based upon the standards of the Church must be adhered to in all cases:
@@ -850,8 +822,7 @@ g. The ultimate objective of all such labor cannot be anything less than the est
 
 4. Such ministers shall report at least once each year to the presbytery under whose jurisdiction they are. This report shall concern their ministerial activities, and shall include especial reference to the relationship of these activities to the interest and welfare of the Orthodox Presbyterian Church.
 
-## Chapter XXIX
-Organizing and Receiving Congregations
+## Chapter XXIX: Organizing and Receiving Congregations
 A. Organizing Congregations
 1. A group of believers, meeting regularly for worship on the Lord's Day and under the jurisdiction of a session or presbytery, and not yet organized as a separate congregation of the Orthodox Presbyterian Church, shall be denoted in the records of the presbytery as a mission work. Such persons may be enrolled as members of an existing congregation or as members at large of the regional church. The mission work may, with the permission of the session or presbytery, use the name Church in its publicity.
 
@@ -920,16 +891,14 @@ In reliance upon God for strength do you solemnly promise to walk together as a 
 
 The congregation shall answer in the affirmative by raised hand. After this the congregation shall be recognized as a new and separate church of the regional church. Then the officers shall be (ordained and) installed according to this Form of Government.
 
-## Chapter XXX
-Organizations of Members of the Church
+## Chapter XXX: Organizations of Members of the Church
 1. Every Christian has the freedom and obligation to exercise the general office of the believer not only individually but also in fellowship with other members of the body of Christ. Members of the church may therefore associate together for specific purposes in the exercise of their common calling. Such organizations, however, under ordinary circumstances, shall not assume the prerogatives or exercise the functions of the special officers of the church.
 
 2. When a church fails to perform its divinely given task, church members should seek remedies through biblical procedures of government and discipline. In the event that remedy cannot be obtained, or if the church is unable to work in a particular situation, Christians may organize to carry on activities that would more normally be conducted under the appropriate judicatory of the church, until these unusual circumstances are overcome.
 
 3. When an organization purports to represent a particular church, or a presbytery, or the Orthodox Presbyterian Church, it must obtain the approval, and be subject to the jurisdiction and oversight, of the session of the particular church, or of the presbytery, or of the general assembly, respectively.
 
-## Chapter XXXI
-Incorporation and Corporations
+## Chapter XXXI: Incorporation and Corporations
 1. The general assembly, the several presbyteries, and the several churches may maintain corporations to act as agents of the respective authorities to handle affairs pertaining to property and other temporal matters as required by the civil authorities.
 
 2. Only those and all those who are communicant members of a particular church in good and regular standing and meeting the requirements of the civil authorities shall be entitled to vote at corporation meetings of the particular church. Voting by proxy shall not be permitted, nor shall anyone be allowed to vote except when the vote is being taken.
@@ -940,8 +909,7 @@ Incorporation and Corporations
 
 5. All particular churches shall be entitled to hold, own, and enjoy their own local properties, without any right of reversion to the Orthodox Presbyterian Church whatsoever, unless the particular church should become extinct, provided, however, that any particular church may, if it so desires, give or dedicate its property to the Orthodox Presbyterian Church. A congregation that desires to withdraw from the Orthodox Presbyterian Church and to retain its property shall follow the provisions of Chapter XVI, Section 7, of this Form of Government. Dissolution of a particular church by any judicatory, or by any other form of ecclesiastical action, shall not be deemed as making a particular church extinct within the meaning of this article. But these provisions shall not be construed as limiting or abrogating the right of the judicatories of this Church to exercise all constitutional and proper authority over the particular churches as spiritual bodies.
 
-## Chapter XXXII
-The Constitution and Its Amendment
+## Chapter XXXII: The Constitution and Its Amendment
 1. The constitution of the Orthodox Presbyterian Church, subordinate to the Scriptures of the Old and New Testaments, consists of its standards of doctrine, government, discipline, and worship, namely, its Confession of Faith, Larger and Shorter Catechisms, Form of Government, Book of Discipline, and Directory for the Public Worship of God. When the latter three documents are published together, the combined document shall be entitled The Book of Church Order of the Orthodox Presbyterian Church.
 
 2. With the exception noted in Section 3, below, the Form of Government, Book of Discipline, and Directory for the Public Worship of God may be amended only in the following manner: The general assembly after due discussion shall propose the amendment to the presbyteries; each presbytery shall vote on the question before the next regular assembly, and the clerk of each presbytery shall notify the clerk of the assembly, in writing, of the action of the presbytery; if a majority of the presbyteries has thus signified approval of the amendment, the amendment shall become effective on January 1 of the first year ending in 5 or 0 following the year in which the clerk announces to the assembly that a majority of the presbyteries has approved the amendment. If the assembly proposing the amendment desires it to become effective earlier than the date hereinbefore provided, it may set an earlier date, but not sooner than the next regular assembly, by a two-thirds vote. No amendments shall be proposed to the presbyteries without written grounds for the proposed amendments.

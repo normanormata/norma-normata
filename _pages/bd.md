@@ -1,12 +1,11 @@
 ---
-title: The OPC Book of Discipline
+title: The Book of Discipline
 author: Tyler Teschon
 date: 2023-08-30
 category: Jekyll
 layout: post
 ---
-## Chapter I
-The Nature and Purposes of Discipline
+## Chapter I : The Nature and Purposes of Discipline
 1. Ecclesiastical discipline is the exercise of that authority which the Lord Jesus Christ has committed to the visible church for the preservation of its purity, peace, and good order.
 
 2. Administrative discipline is concerned with the maintenance of good order in the government of the church in other than judicial cases. The purpose of its exercise is that all rights may be preserved and all obligations faithfully discharged.
@@ -15,8 +14,7 @@ The Nature and Purposes of Discipline
 
 4. All members of the church, both communicants and those who are members by virtue of baptism only, are under the care of the church, and subject to ecclesiastical discipline including administrative and judicial discipline.
 
-## Chapter II
-Jurisdiction
+## Chapter II: Jurisdiction
 A. General Provisions
 1. Original jurisdiction over an individual belongs to the judicatory of the body of which the individual is a member. Original jurisdiction over judicatories belongs to the next higher judicatory.
 
@@ -83,8 +81,7 @@ D. Special Circumstances
 
 4. The higher judicatory in each instance shall either conclude any uncompleted case of discipline begun in the lower judicatory, or refer the case to the judicatory to whose care the accused has been committed.
 
-## Chapter III
-Steps in the Institution of Judicial Process
+## Chapter III: Steps in the Institution of Judicial Process
 1. A charge of an offense may be brought by an injured party, by a person not an injured party, or by a judicatory. The offense alleged in the charge should be serious enough to warrant a trial (cf. Chapter III, Section 7.b [6]). No charge shall be admitted against an elder, unless it is brought by two or more persons, according to I Timothy 5:19.
 
 2. No charge shall be admitted by the judicatory if it is filed more than two years after the commission of the alleged offense, unless it appears that unavoidable impediments have prevented an earlier filing of the charge. A charge shall be considered filed when it has been delivered to the clerk or the moderator of the judicatory.
@@ -121,8 +118,7 @@ c. When the form of the charge and specifications has been approved by the judic
 
 [Suggested forms for filing a written charge and for citing the accused to appear can be found on pages 169-70.]
 
-## Chapter IV
-The Trial of Judicial Cases
+## Chapter IV: The Trial of Judicial Cases
 A. Rules for Those Involved
 1. Regarding the Judicatory
 
@@ -224,8 +220,7 @@ If the judicatory proceeds with the trial in the absence of the accused, a couns
 
 [A suggested form for citing a witness is found on page 171.]
 
-## Chapter V
-Cases without Full Process
+## Chapter V: Cases without Full Process
 1. When a person comes before a judicatory as his own accuser, the judicatory may proceed to judgment without full process, determining first, what offense, if any has been committed, and, if a serious offense (cf. Chapter III, Section 7.b [6]) has been committed, what censure shall be pronounced.
 
 2. Erasure is an act of discipline without full process.
@@ -250,8 +245,7 @@ b. The names of ministers may be removed from the roll of the presbytery by eras
 
 (2) When a minister has been absent from the meetings of presbytery for two years and the presbytery after diligent search is unable to find him, his name shall be erased from the roll.
 
-## Chapter VI
-Censure and Restoration
+## Chapter VI: Censure and Restoration
 A. Censure
 1. In judicial discipline there are five degrees of censure: admonition, rebuke, suspension, deposition, and excommunication. Censures shall be pronounced in the name and by the authority of the Lord Jesus Christ, as an act of the whole church, by the moderator on behalf of the trial judicatory.
 
@@ -318,8 +312,7 @@ D. Restoration
 
 [Suggested forms to use for the public imposition and removal of censures can be found on pages 176-80.]
 
-## Chapter VII
-Appeals
+## Chapter VII: Appeals
 1. An appeal in a judicial case is the removal of the case to an appellate judicatory by the filing of a petition asking that the final judgment of a lower judicatory be reversed or modified. An appeal may be taken by the accused, or by a judicatory whose judgment has been reversed or modified by an appellate judicatory.
 
 2. Decisions and rulings made by the trial judicatory during the course of the trial shall not be appealable but may be assigned as grounds of appeal from the final judgment of the judicatory.
@@ -336,16 +329,14 @@ Appeals
 
 [Suggested forms to use when giving a notice to appeal or for the appeal itself are located on pages 172-73.]
 
-## Chapter VIII
-Dissents and Protests
+## Chapter VIII: Dissents and Protests
 1. Any member of a judicatory who is entitled to vote on a question and who votes against the action or judgment of the judicatory thereon may request that his vote be recorded in the minutes of the judicatory.
 
 2. Any member of a judicatory may file a written protest stating his reasons for objecting to an action or judgment of the judicatory. A protest must be filed with the moderator or clerk within ten days after the judicatory has taken the action or announced the judgment, provided, however, that a protest against an action or judgment of the general assembly must be filed prior to the dissolution thereof. A protest shall be read to the judicatory and shall be recorded in the minutes.
 
 3. The judicatory may, if it so desires, place in its minutes an answer to a protest.
 
-## Chapter IX
-Complaints
+## Chapter IX: Complaints
 1. A complaint is a written representation, other than an appeal or a protest, charging a judicatory with delinquency or error. It may be brought by an officer or other member of the church against the session or the presbytery to which he is subject, by one session against another session, by a session against the presbytery which has jurisdiction over it, or by one presbytery against another presbytery.
 
 2. A complaint shall first be presented to the judicatory which is alleged to be delinquent or in error, and this judicatory shall be asked to make amends. The complaint shall be presented as soon as possible after the alleged delinquency or error, and always within three months, unless it is shown that it could not have been presented within that time.

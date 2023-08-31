@@ -1,5 +1,5 @@
 ---
-title: The OPC Directory for the Public Worship of God
+title: The Directory for the Public Worship of God
 author: Tyler Teschon
 date: 2023-08-30
 category: Jekyll
@@ -26,8 +26,7 @@ The Suggested Forms for Particular Services are, by definition, suggested. The d
 
 Scripture quotations in the Directory and the Suggested Forms are drawn from the King James Version with a few variations, indicated by brackets, where deemed advisable for current understanding, without prejudice to other translations. In the use of the Directory, any accurate, faithful translation may be substituted.
 
-## Chapter I
-The Principles of Public Worship
+## Chapter I: The Principles of Public Worship
 A. God's Institution of Public Worship
 1. The living and true God, our triune Creator, has instituted the worship of himself by all people everywhere in spirit and in truth.
 
@@ -154,8 +153,7 @@ e. On occasion, with the approval of the session and under the close supervision
 
 f. No others should take such leadership in overseeing or conducting public worship.
 
-## Chapter II
-Elements of Ordinary Public Worship
+## Chapter II: Elements of Ordinary Public Worship
 A. The Part from God to the People
 1. The Call to Worship
 
@@ -250,8 +248,7 @@ c. The session shall take care that the offerings of the congregation are used o
 
 d. It is desirable that Christian love be demonstrated by offerings for the use of the deacons in the ministry of mercy on behalf of the church. It is appropriate that a special offering be received for this purpose following the Lord's Supper.
 
-## Chapter III
-The Administration of the Sacraments
+## Chapter III: The Administration of the Sacraments
 A. General Provisions
 1. In order that the sacraments may be observed with discernment and profit, it is imperative that adequate preparation be made prior to their administration. Before observing the sacraments, God's people ought to meditate on the teaching of the Word of God concerning them, particularly as summarized in the Confession of Faith and Catechisms. It is also advisable that from time to time the preaching include suitable instruction on the sacraments. Moreover, when the sacraments are being celebrated, the minister shall always accompany them by the preaching of the Word, and he shall take especial care in that preaching to proclaim Christ and his benefits, so that God's people can understand what the sacrament means. In connection with the administration of the sacraments, he shall set forth a summary of the teaching of the Word of God as to their institution, meaning, and nature.
 
@@ -490,8 +487,7 @@ The following benediction is particularly appropriate when the Lord's Supper has
 
 "Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant, make you perfect in every good work to do his will, working in you that which is well pleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen."
 
-## Chapter IV
-Public Reception of Church Members
+## Chapter IV: Public Reception of Church Members
 A. General Provisions
 1. Only those may be admitted to full communion in the church who have been baptized and have made public profession of faith in Jesus Christ.
 
@@ -654,8 +650,7 @@ May the God of all grace, who called you unto his eternal glory in Christ, after
 
 This part of the service shall be concluded with prayer.
 
-## Chapter V
-Special Occasions of Public Worship
+## Chapter V: Special Occasions of Public Worship
 Under the gospel, we are commanded to keep no other particular day holy, except the Lord's Day. Nevertheless, God's people may observe special occasions as the dispensations of God's providence administer cause and opportunity. Such observance is both consonant with Scripture and pastorally appropriate.
 
 A. Prayer and Fasting
