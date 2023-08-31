@@ -15,14 +15,14 @@ layout: post
 4. All members of the church, both communicants and those who are members by virtue of baptism only, are under the care of the church, and subject to ecclesiastical discipline including administrative and judicial discipline.
 
 ## Chapter II: Jurisdiction
-A. General Provisions
+### A. General Provisions
 1. Original jurisdiction over an individual belongs to the judicatory of the body of which the individual is a member. Original jurisdiction over judicatories belongs to the next higher judicatory.
 
 2. All certificates of dismission shall specify the particular body to which the person is dismissed, and shall be sent directly to that body by the dismissing judicatory. The receiving body shall notify the dismissing judicatory of the fact of reception when accomplished.
 
 3. If a person charged with an offense requests that he be dismissed to another body within the Orthodox Presbyterian Church, the judicatory of jurisdiction shall grant this request only for reasons which it deems weighty. If the request is granted, it shall inform the judicatory to whose care the person is being committed of the charge which has been brought against him and also of any action which the dismissing judicatory may have taken with reference to the charge, and the judicatory which receives him shall conclude the case.
 
-B. The Session's Jurisdiction
+### B. The Session's Jurisdiction
 1. The session of a particular church shall have jurisdiction over all those whose names are on the roll of the church.
 
 2. Members shall be received and their names placed on the roll of the church only by order of the session and according to the following provisions:
@@ -67,12 +67,12 @@ f. Members shall be removed at their death. The session shall remove the name of
 
 g. Members may be removed by excommunication according to this Book of Discipline, Chapter VI, Sections B.5, C.1, and C.2.
 
-C. The Presbytery's Jurisdiction
+### C. The Presbytery's Jurisdiction
 1. Presbytery shall have original jurisdiction over all the members of the regional church not enrolled as members of a local church. The provisions of this chapter, Sections B.2 and B.3, shall apply mutatis mutandis.
 
 2. The presbytery shall have original jurisdiction over all the teaching elders who are on the roll of the presbytery. The names of teaching elders shall be placed on or removed from the roll of presbytery only by order of the presbytery, and according to the provisions of the Form of Government and this Book of Discipline. If a teaching elder has been dismissed to another presbytery, he shall be considered subject to the jurisdiction of the presbytery which dismissed him until the time when his name is placed on the roll of the presbytery (cf. Form of Government, Chapter XXIII, Section 20) to which he has been dismissed. The receiving body shall acquire jurisdiction over him when his name is placed on the roll of the presbytery (cf. Form of Government, Chapter XXIII, Section 20) and at that time he shall be invested with all the rights and privileges of membership therein, which rights and privileges shall not be impaired by the filing of a complaint, unless and until such complaint shall be sustained by the highest judicatory to which complaint is made.
 
-D. Special Circumstances
+### D. Special Circumstances
 1. If a session shall cease to exist or become so small as to prevent it from working effectively, the presbytery shall provide for an election and ordination of elders from within the congregation; or the presbytery, with the consent of the congregation, may appoint ruling elders or ministers, or both, normally from within the same presbytery to be an acting session or to augment the existing session temporarily.
 
 2. If a church ceases to exist, the presbytery of jurisdiction shall secure the records, exercise care over its members, and issue certificates of dismission to other churches.
@@ -119,7 +119,7 @@ c. When the form of the charge and specifications has been approved by the judic
 [Suggested forms for filing a written charge and for citing the accused to appear can be found on pages 169-70.]
 
 ## Chapter IV: The Trial of Judicial Cases
-A. Rules for Those Involved
+### A. Rules for Those Involved
 1. Regarding the Judicatory
 
 a. At the beginning of every trial, the moderator shall announce:
@@ -168,7 +168,7 @@ e. If a witness who is a member of the church fails to obey a lawful citation, h
 
 f. If a member of the church under the jurisdiction of another judicatory has been cited as a witness, and such person refuses to appear, the trial judicatory will communicate the facts to the judicatory having jurisdiction over the person concerned.
 
-B. Rules for Evidence
+### B. Rules for Evidence
 1. Evidence must be factual in nature. It may be direct or circumstantial. Caution should be exercised in giving weight to evidence which is purely circumstantial.
 
 2. The accused may object to the competency of any witness and the authenticity, admissibility, and relevancy of any testimony or evidence produced in support of the charge and specifications. The trial judicatory shall decide on all such objections after allowing the accused to be heard in support thereof.
@@ -187,7 +187,7 @@ B. Rules for Evidence
 
 9. If new evidence is produced by the accused after he has been found guilty, the trial judicatory shall examine such evidence. If it is satisfied that there was good reason for not producing it at the trial, it shall grant a new trial, or, in case an appeal has been lodged, it shall certify these facts to the appellate judicatory and the record of the case shall then be returned to the trial judicatory for the purpose of a new trial.
 
-C. Rules of Trial Proceedings
+### C. Rules of Trial Proceedings
 1. First Meeting of the Trial
 
 a. At the first meeting of the trial judicatory only the following actions shall be taken:
@@ -246,12 +246,12 @@ b. The names of ministers may be removed from the roll of the presbytery by eras
 (2) When a minister has been absent from the meetings of presbytery for two years and the presbytery after diligent search is unable to find him, his name shall be erased from the roll.
 
 ## Chapter VI: Censure and Restoration
-A. Censure
+### A. Censure
 1. In judicial discipline there are five degrees of censure: admonition, rebuke, suspension, deposition, and excommunication. Censures shall be pronounced in the name and by the authority of the Lord Jesus Christ, as an act of the whole church, by the moderator on behalf of the trial judicatory.
 
 2. If a person who has been adjudged guilty refuses or fails to present himself for censure at the time appointed, the trial judicatory shall cite him to appear at another time. If he does not appear after this citation, the censure shall be pronounced in his absence.
 
-B. Degrees of Censure
+### B. Degrees of Censure
 1. Admonition
 
 Admonition consists in tenderly and solemnly confronting the offender with his sin, warning him of his danger, and exhorting him to repentance and to greater fidelity to the Lord Jesus Christ.
@@ -282,7 +282,7 @@ d. When a minister has been deposed, the judicatory shall immediately notify all
 
 Excommunication is the most severe form of censure and is resorted to only in cases of offenses aggravated by persistent impenitence. It consists in a solemn declaration by an ecclesiastical judicatory that the offender is no longer considered a member of the body of Christ.
 
-C. Procedural Considerations
+### C. Procedural Considerations
 1. Pronouncement of Censure
 
 The indefinite suspension, deposition, or excommunication of an officer or other member of the church shall be announced to the church in which the officer holds office, or in which the member holds membership. These censures shall always be accompanied by prayer to God that he may graciously use the discipline for the restoration of the offender, the edification of the church, and his own glory.
@@ -303,7 +303,7 @@ b. If increase of censure is imposed, without further trial, it shall be the dut
 
 c. The judgment to increase censure shall in any case be subject to appeal.
 
-D. Restoration
+### D. Restoration
 1. An officer deposed because of a commonly known offense shall be restored only after the judicatory has assured itself that the restoration will not be attended by injury to the cause of the gospel.
 
 2. An officer who has been deposed cannot resume his former office without again being ordained.

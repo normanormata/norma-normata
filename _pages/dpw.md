@@ -28,6 +28,7 @@ Scripture quotations in the Directory and the Suggested Forms are drawn from the
 
 ## Chapter I: The Principles of Public Worship
 A. God's Institution of Public Worship
+
 1. The living and true God, our triune Creator, has instituted the worship of himself by all people everywhere in spirit and in truth.
 
 a. Because man's chief end is to glorify God and fully to enjoy him forever, all of life is to be worshipful. Nevertheless, worship itself consists primarily in specific acts of communion with God.
@@ -54,7 +55,7 @@ a. Although it is fitting and proper that the members of Christ's church assembl
 
 b. It is highly advisable that a congregation assemble for public worship at the beginning and the ending of the Lord's Day. God established this pattern for his Old Testament people when he commanded morning and evening sacrifice and incense burning. Moreover, he sanctifies the entire Lord's Day to himself and gives his people in it a foretaste of their eternal enjoyment of him and his people.
 
-B. The Nature of Public Worship
+### B. The Nature of Public Worship
 1. An assembly of public worship is not merely a gathering of God's children with each other, but is, before all else, a meeting of the triune God with his covenant people. In the covenant, God promises his chosen ones that he will dwell among them as their God and they will be his people.
 
 a. The triune God is present in public worship, not only by virtue of the divine omnipresence, but, much more intimately, as the faithful covenant Savior. Through Christ, God's people have access by one Spirit to the Father.
@@ -105,7 +106,7 @@ a. Through public worship on the Lord's Day, God calls his people to serve him a
 
 b. God's people are to be led to engage in all the elements of worship with a single-minded focus on God's glory and with a humble and dependent expectation that the exalted Lord Jesus Christ himself will edify them and build his church through his appointed means of grace—all to the glory of God.
 
-C. The Parts of Public Worship
+### C. The Parts of Public Worship
 1. Because a service of public worship is in its essence a meeting of the triune God with his chosen people, a worship service consists of two principal parts: those elements which are performed on behalf of God (through a representative voice) and those elements which are performed by the congregation (through their own or a representative voice).
 
 a. By his Spirit working through the ministry of the Word, God addresses his people in the call to worship, in the salutation and benediction, in the reading and preaching of the Word, and in the sacraments.
@@ -132,7 +133,7 @@ a. Because the pulpit, baptismal font, and communion table facilitate the part o
 
 b. Because musicians and musical instruments serve the part of worship that is performed by the congregation, it is fitting that they be positioned with or behind the congregation.
 
-D. The Oversight and Conduct of Public Worship
+### D. The Oversight and Conduct of Public Worship
 1. Public worship is Christian, not only when the worshipers consciously recognize that Christ is the Mediator by whom alone they can come unto God, but also when they honor the exalted Christ as the living and only Head of the church, who rules over public worship.
 
 a. He rules over public worship by his Word and Spirit, not only directly, but also through the ministry of officers in their ruling and teaching his church.
@@ -195,7 +196,7 @@ b. A salutation is the greeting from God to his people who have gathered to wors
 
 c. A benediction is the pronouncement of God's blessing upon his people at the conclusion of the worship service. Words of benediction taken from Scripture are to be used. The high priestly benediction, "The Lord bless thee [you], and keep thee [you]: the Lord make his face shine upon thee [you], and be gracious unto thee [you]: the Lord lift up his countenance upon thee [you], and give thee [you] peace" (Num. 6:24-26), or the Trinitarian apostolic benediction, "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all" (2 Cor. 13:14), are distinctly appropriate. If, however, the minister deems another benediction taken from Scripture more fitting for a particular occasion, he may use it.
 
-B. The Part from the People to God
+### B. The Part from the People to God
 1. Public Prayer
 
 a. Prayer is an essential element of public worship. In order to be accepted by God, prayer is to be by faith, in the name of the Son of God, by the help of his Spirit, and according to God's will.
@@ -258,7 +259,7 @@ A. General Provisions
 
 4. In the administration of the sacraments, the minister shall follow the directions prescribed in this chapter, but, except in the case of the words of the baptismal formula, he is not required to use the exact language of the indented forms (below), which are suggested as appropriate. He may employ these or similar forms, using his own liberty and godly wisdom, as he deems best for the edification of the people.
 
-B. Baptism
+### B. Baptism
 1. The Baptism of Infants
 
 a. Prerequisites
@@ -343,7 +344,7 @@ The whole service of baptism shall then be concluded with prayer. It is well in 
 
 a. Prerequisites
 
-An adult who seeks to be baptized shall make a public profession of his faith before the congregation prior to the baptism. He shall previously have received instruction in the Christian faith in accordance with the confessional standards of this Church, including instruction as to the meaning of baptism, and have also made before the session of the church a credible profession of faith in Christ according to the provisions of Chapter IV, Section A.3, of this Directory.
+An adult who seeks to be baptized shall make a public profession of his faith before the congregation prior to the baptism. He shall previously have received instruction in the Christian faith in accordance with the confessional standards of this Church, including instruction as to the meaning of baptism, and have also made before the session of the church a credible profession of faith in Christ according to the provisions of [Chapter IV](https://normanormata.github.io/pages/dpw/#chapter-iv-public-reception-of-church-members), Section A.3, of this Directory.
 
 b. The Administration of Baptism to Adults
 
@@ -423,7 +424,7 @@ May the God of all grace, who called you unto his eternal glory in Christ, after
 
 The whole service of baptism shall be concluded with prayer. It is well in such a prayer to thank the Lord for his covenant of grace, rejoice that this brother has been included, and to ask the Lord to graciously enable him to be a covenant keeper, daily dying to sin and walking in newness of life in Christ.
 
-C. The Lord's Supper
+### C. The Lord's Supper
 1. The Institution of the Sacrament
 
 The minister shall read the words of the institution and instruction of the Lord's Supper as found in 1 Corinthians 11:23-29 or one of the Gospel accounts (Matthew 26:26-29, Mark 14:22-25, or Luke 22:14-20). In addition, he may read words of instruction from passages such as John 6 and 1 Corinthians 10.
@@ -505,9 +506,9 @@ A. General Provisions
 
 8. Noncommunicant members of the congregation may be received into communicant membership only by confession of faith.
 
-9. The following provisions are designed to assist ministers and sessions to receive members in accordance with the Book of Discipline, Chapter II, Section B.2, which provisions should always be followed.
+9. The following provisions are designed to assist ministers and sessions to receive members in accordance with the Book of Discipline, [Chapter II](https://normanormata.github.io/pages/bd/#chapter-ii-jurisdiction), Section B.2, which provisions should always be followed.
 
-B. Reception into Full Communion of Noncommunicant Members by Profession of Faith
+### B. Reception into Full Communion of Noncommunicant Members by Profession of Faith
 1. When a noncommunicant member is received into full communion, that reception is effective at the time of his public profession of faith. On the occasion of that person's public reception, it is highly advisable that the minister remind the people that he is already a member of the church, albeit a noncommunicant member, and has been receiving the blessings of Christ as a member of the church, and that those blessings have resulted in this day wherein, having given evidence of conscious saving faith in Christ, he is now about to confess that faith and become a communicant member of the congregation. The minister may then address him in these or like words:
 
 Beloved in the Lord Jesus Christ, we thank our God for the grace that was given you, in that you have accepted God's covenant promise that was signified and sealed unto you in your infancy by holy baptism. We ask you now to profess your faith publicly.
@@ -542,10 +543,10 @@ May the God of all grace, who called you unto his eternal glory in Christ, after
 
 This part of the service shall be concluded with prayer.
 
-C. Reception by Letter of Transfer from Another Orthodox Presbyterian Church
+### C. Reception by Letter of Transfer from Another Orthodox Presbyterian Church
 When a person is received into membership on letter of transfer from another Orthodox Presbyterian congregation, that reception is effective at the time of the action of the session to receive him. Nevertheless, a session may deem it appropriate to welcome that person publicly into the congregation and allow him to give public expression to his faith. If this is done, it shall be made clear to the congregation that the person has already been received by action of the session. Nevertheless, the minister may address him in appropriate words similar to those found below in Section D.4.
 
-D. Reception by Letter of Transfer from Another Church of Like Faith and Practice
+### D. Reception by Letter of Transfer from Another Church of Like Faith and Practice
 1. When a person is received into membership on letter of transfer from another church of like faith and practice approved by the session, that reception is effective at the time of his public profession of faith. On the occasion of that person's public reception, the minister shall address him in these or like words:
 
 Beloved in the Lord Jesus Christ, we thank our God for the grace that was given you, in that you have accepted God's promise of salvation and publicly confessed your faith in the Savior, Jesus Christ. We praise him that he brought you into communicant membership in a church of like faith and practice with this congregation. We rejoice that God, in his gracious providence, has now brought you here and given you a desire to unite with us, and that your former church has committed you to our fellowship and oversight. We ask that you testify before us to the faith that you profess by giving assent to the following questions.
@@ -580,7 +581,7 @@ May the God of all grace, who called you unto his eternal glory in Christ, after
 
 This part of the service shall be concluded with prayer.
 
-E. Reception by Reaffirmation of Faith
+### E. Reception by Reaffirmation of Faith
 1. When a person is received into membership by reaffirmation of faith, that reception is effective at the time of his public profession of faith. On the occasion of that person's public reception, the minister shall address him in these or like words:
 
 Beloved in the Lord Jesus Christ, we thank our God for the grace that was given you, in that you have accepted God's promise of salvation and publicly confessed your faith in the Savior, Jesus Christ. We rejoice that God, in his gracious providence, has brought you into this congregation and given you a desire to reaffirm the faith that you have previously professed, and to unite with us. We ask that you testify before us to the faith that you profess by giving assent to the following questions.
@@ -615,8 +616,8 @@ May the God of all grace, who called you unto his eternal glory in Christ, after
 
 This part of the service shall be concluded with prayer.
 
-F. Reception of New Members by Public Profession of Faith
-1. When an unbaptized person is received into membership by profession of faith, that reception is effective at the time of his public profession of faith and baptism. He shall be received in accord with Chapter III, Section B.2, of this Directory. When a previously baptized person who is not a member of the congregation and has not previously made a confession of his faith is received into membership by profession of faith, that reception is effective at the time of his public profession of faith. On the occasion of that person's public reception, the minister shall address him in these or like words:
+### F. Reception of New Members by Public Profession of Faith
+1. When an unbaptized person is received into membership by profession of faith, that reception is effective at the time of his public profession of faith and baptism. He shall be received in accord with [Chapter III](https://normanormata.github.io/pages/dpw/#chapter-iii-the-administration-of-the-sacraments), Section B.2, of this Directory. When a previously baptized person who is not a member of the congregation and has not previously made a confession of his faith is received into membership by profession of faith, that reception is effective at the time of his public profession of faith. On the occasion of that person's public reception, the minister shall address him in these or like words:
 
 Beloved in the Lord Jesus Christ, we thank our God for the grace that was given you, in that our Savior has sought and found you and through faith you have become a partaker of the covenant of grace. We rejoice that in his grace he has brought you to this congregation and given you the desire to profess your faith before us and to unite with us. We ask that you testify before us to the faith that you profess by giving assent to the following questions.
 
@@ -653,8 +654,8 @@ This part of the service shall be concluded with prayer.
 ## Chapter V: Special Occasions of Public Worship
 Under the gospel, we are commanded to keep no other particular day holy, except the Lord's Day. Nevertheless, God's people may observe special occasions as the dispensations of God's providence administer cause and opportunity. Such observance is both consonant with Scripture and pastorally appropriate.
 
-A. Prayer and Fasting
-1. When great and notable calamities come upon or threaten the church, community, or nation, when judgment is deserved because of sin, when the people seek some special blessing from the Lord, or when a pastor is to be ordained or installed (Form of Government, Chapter XXIII, Section 7), it is fitting that the people of God engage in times of solemn prayer and fasting.
+### A. Prayer and Fasting
+1. When great and notable calamities come upon or threaten the church, community, or nation, when judgment is deserved because of sin, when the people seek some special blessing from the Lord, or when a pastor is to be ordained or installed ([Form of Government, Chapter XXIII](https://normanormata.github.io/pages/fg/#chapter-xxiii-ordaining-and-installing-ministers), Section 7), it is fitting that the people of God engage in times of solemn prayer and fasting.
 
 2. Prayer and fasting may be observed by private individuals and families at their discretion or by the Church at the discretion of the appropriate judicatory. If the civil authority calls for a time of prayer and fasting that the judicatories of the Church deem to be in harmony with the Scriptures, they should consider issuing such a call to their members.
 
@@ -662,7 +663,7 @@ A. Prayer and Fasting
 
 4. It is especially appropriate on days of prayer and fasting called by the Church that the people of God gather for a time of prayer, the singing of psalms and hymns, and the reading and preaching of the Word of God. Let them lament their distress or unworthiness before the Lord, confess their sins, humbly implore the Lord for deliverance from the judgment present or imminent or for the blessing sought, and commit themselves anew to the faithful service of the Lord their God. It is fitting on such days that God's people abstain from food and from such activities as may distract from their solemn engagement in prayer.
 
-B. Thanksgiving
+### B. Thanksgiving
 1. When God's blessings on the church, community, or nation are particularly evident, it is fitting that the people of God engage in special times of thanksgiving.
 
 2. Special times of thanksgiving may be observed by private individuals and families at their discretion or by the Church as called by the appropriate judicatory. If the civil authority calls for a time of thanksgiving that the judicatories of the Church deem to be in harmony with the Scriptures, they should consider issuing such a call to their members.

@@ -823,7 +823,7 @@ g. The ultimate objective of all such labor cannot be anything less than the est
 4. Such ministers shall report at least once each year to the presbytery under whose jurisdiction they are. This report shall concern their ministerial activities, and shall include especial reference to the relationship of these activities to the interest and welfare of the Orthodox Presbyterian Church.
 
 ## Chapter XXIX: Organizing and Receiving Congregations
-A. Organizing Congregations
+### A. Organizing Congregations
 1. A group of believers, meeting regularly for worship on the Lord's Day and under the jurisdiction of a session or presbytery, and not yet organized as a separate congregation of the Orthodox Presbyterian Church, shall be denoted in the records of the presbytery as a mission work. Such persons may be enrolled as members of an existing congregation or as members at large of the regional church. The mission work may, with the permission of the session or presbytery, use the name Church in its publicity.
 
 2. A group of believers may be organized as a separate congregation of the Orthodox Presbyterian Church only under the supervision of presbytery. The presbytery of the regional church to which the congregation would most naturally belong shall have the jurisdiction in the matter.
@@ -872,7 +872,7 @@ The members shall answer in the affirmative by raised hand. After this the congr
 
 d. The presbytery or the appointed session shall then see to it that there are officers to serve the new church according to the provisions of this Form of Government, Chapters XXV and XXII.
 
-B. Receiving Congregations
+### B. Receiving Congregations
 1. A congregation not belonging to the Orthodox Presbyterian Church may be received only under the supervision of presbytery. The presbytery of the regional church to which the congregation would most naturally belong shall have jurisdiction in the matter.
 
 2. In receiving an existing, local church not belonging to the Orthodox Presbyterian Church as a new and separate congregation (church) the procedure shall be as follows:
