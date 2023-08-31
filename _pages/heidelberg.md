@@ -898,22 +898,3 @@ Answer: For Thine is the kingdom, and the power, and the glory, for ever. That i
 Answer: Amen means: It is true and certain. For God has much more certainly heard my prayer than I feel in my heart that I desire this of Him.[1]
 
 [1] Is. 65:24; II Cor. 1:20; II Tim. 2:13.
-
-[1]: https://github.com/allejo/jekyll-toc
-
-<script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n &amp;&amp; (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
-</script>
