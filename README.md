@@ -4,7 +4,12 @@ title: Creeds & Confessions of the Church
 permalink: /
 ---
 
-# [Creeds and Confessions of the Church](https://normanormata.github.io)
+Searchable creeds, confessions, and catechisms of the church.
+
+# The Ecumenical Creeds
+[The Apostles Creed](https://normanormata.github.io/pages/apostles-creed/)<br>
+[The Athanasian Creed](https://normanormata.github.io/pages/athanasian-creed/)<br>
+[The Nicene Creed](https://normanormata.github.io/pages/nicene-creed/)<br>
 
 [1]: https://pages.github.com
 [2]: https://pages.github.com/themes
