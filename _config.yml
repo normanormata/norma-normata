@@ -53,6 +53,19 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
+    order:
+      - apostles-creed.md
+      - athanasian-creed.md
+      - nicene-creed.md
+      - wcf.md
+      - wsc.md
+      - wlc.md
+      - belgic.md
+      - canons-of-dort.md
+      - heidelberg.md
+      - fg.md
+      - bd.md
+      - dpw.md
 
 page_width: 800px
 
