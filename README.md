@@ -11,6 +11,20 @@ Searchable creeds, confessions, and catechisms of the church.
 [The Athanasian Creed](https://normanormata.github.io/pages/athanasian-creed/)<br>
 [The Nicene Creed](https://normanormata.github.io/pages/nicene-creed/)<br>
 
+# The Westminster Standards
+[The Westminster Confession of Faith](https://normanormata.github.io/pages/wcf/)
+<br>
+[The Westminster Larger Catechism](https://normanormata.github.io/pages/wlc/)
+<br>
+[The Westminster Shorter Catechism](https://normanormata.github.io/pages/wsc/)
+
+# The Three Forms of Unity
+[The Belgic Confession](https://normanormata.github.io/pages/belgic/)
+<br>
+[The Canons of Dort](https://normanormata.github.io/pages/canons-of-dort/)
+<br>
+[The Heidelberg Catechism](https://normanormata.github.io/pages/heidelberg/)
+
 [1]: https://pages.github.com
 [2]: https://pages.github.com/themes
 [3]: https://github.com/sighingnow/jekyll-gitbook/fork
